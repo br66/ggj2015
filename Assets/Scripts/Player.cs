@@ -4,8 +4,11 @@ using System.Collections;
 public class Player : MonoBehaviour 
 {
 	public float speed = 1.0f;
+	public float speedLimit = 0f;
+
 	private string left = "Horizontal";
 	private string jump = "Fire1";
+
 	public float jumpPower = 1200.0f;
 
 	//public Animator anim;
@@ -33,15 +36,31 @@ public class Player : MonoBehaviour
 			transform.localScale = newScale;
 		}
 	
-		transform.position += transform.right * Input.GetAxis(left) * speed * Time.deltaTime;
-		//rigidbody2D.AddForce (transform.right);
+		//transform.position += transform.right * Input.GetAxis(left) * speed * Time.deltaTime;
+		rigidbody2D.AddForce (transform.right*Input.GetAxis(left) * speed);
 
 
 		if (Input.GetButtonDown (jump)) 
 		{
 			rigidbody2D.AddForce(transform.up * jumpPower);
+		}
 
+		if (Mathf.Abs (rigidbody2D.velocity.x) > speedLimit)
+		{
+			Debug.Log ("reached limit");
+			if (rigidbody2D.velocity.x < -1)
+			{
+				Debug.Log("negative restiction");
+				rigidbody2D.velocity = new Vector2 (-speedLimit, rigidbody2D.velocity.y);
+			}
+			
+			if (rigidbody2D.velocity.x > 1)
+			{
+				Debug.Log("positive restiction");
+				rigidbody2D.velocity = new Vector2 (speedLimit, rigidbody2D.velocity.y);
+			}
 		}
 
 	}
+
 }

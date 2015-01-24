@@ -1,0 +1,25 @@
+Sonic the Hedgehog
+If you get rings you get hurt.
+
+Pac Man
+Eat power pellets and die.
+
+Mario
+Jump on enemies and get hurt.
+Reach the flagpole and get sent back to the beginning.
+
+Pong
+Ball goes through the paddle.
+Force field around the paddle.
+
+Mega Man
+Collecting items downgrades armor.
+
+Temple Run
+Collecting coins causes a death.
+
+Fruit Ninja
+Bomb ninja (don't cut fruit)
+
+Dance Dance Revolution
+Don't need to do anything, but match direction and lose progress.
