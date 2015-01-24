@@ -6,16 +6,22 @@ public class Player : MonoBehaviour
 	public float speed = 1.0f;
 	public float speedLimit = 0f;
 
+	public float jumpLimit = 0f;
+
 	private string left = "Horizontal";
 	private string jump = "Fire1";
 
 	public float jumpPower = 1200.0f;
 
+	private GameObject deadEnemy;
+
 	//public Animator anim;
 
+	public Transform groundCheck;
+	public bool grounded = false;
 
 
-	// Use this for initialization
+	// Use this for initializatio
 	void Start () {
 	
 	}
@@ -23,6 +29,8 @@ public class Player : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
+		grounded = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
+
 		if (Input.GetAxis (left) < 0)
 		{
 			Vector3 newScale = transform.localScale;
@@ -40,9 +48,24 @@ public class Player : MonoBehaviour
 		rigidbody2D.AddForce (transform.right*Input.GetAxis(left) * speed);
 
 
-		if (Input.GetButtonDown (jump)) 
+		if (Input.GetButtonDown (jump) && grounded) 
 		{
 			rigidbody2D.AddForce(transform.up * jumpPower);
+		}
+
+		if (Mathf.Abs (rigidbody2D.velocity.y) > jumpLimit)
+		{
+			if (rigidbody2D.velocity.y < -1)
+			{
+				Debug.Log("negative restiction");
+				rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x, -jumpLimit);
+			}
+			
+			if (rigidbody2D.velocity.y > 1)
+			{
+				Debug.Log("positive restiction");
+				rigidbody2D.velocity = new Vector2 (rigidbody2D.velocity.x, jumpLimit);
+			}
 		}
 
 		if (Mathf.Abs (rigidbody2D.velocity.x) > speedLimit)
@@ -61,6 +84,19 @@ public class Player : MonoBehaviour
 			}
 		}
 
+	}
+
+	void OnCollisionEnter2D (Collision2D collision)
+	{
+		if (collision.collider.gameObject.tag == "KillEnemy")
+		{
+			deadEnemy = collision.gameObject;
+			Destroy(deadEnemy);
+		}else
+			if (collision.collider.gameObject.tag == "DontKillEnemy")
+		{
+			Application.LoadLevel("1platform");
+		}
 	}
 
 }

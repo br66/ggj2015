@@ -4,6 +4,10 @@ TextureImporter:
   fileIDToRecycleName:
     21300000: 20592_0
     21300002: 20592_1
+    21300004: 20592_2
+    21300006: 20592_3
+    21300008: 20592_4
+    21300010: 20592_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -65,5 +69,45 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 1, y: 0, z: 0, w: 0}
+    - name: 20592_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 308
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 20592_3
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 260
+        width: 25
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 20592_4
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 260
+        width: 177
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 20592_5
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

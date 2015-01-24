@@ -46,9 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CameraFunc.cs" />
+     <Compile Include="Assets\Scripts\CameraFunc.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\no.cs" />
      <Compile Include="Assets\Scripts\ship.cs" />
+     <Compile Include="Assets\die.cs" />
+     <Compile Include="Assets\goomba.cs" />
      <None Include="Assets\bestgames.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
