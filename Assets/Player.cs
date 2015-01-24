@@ -5,6 +5,8 @@ public class Player : MonoBehaviour
 {
 	public float speed = 1.0f;
 	private string left = "Horizontal";
+	private string jump = "Fire1";
+	public float jumpPower = 1200.0f;
 
 	//public Animator anim;
 
@@ -33,6 +35,13 @@ public class Player : MonoBehaviour
 	
 		transform.position += transform.right * Input.GetAxis(left) * speed * Time.deltaTime;
 		//rigidbody2D.AddForce (transform.right);
+
+
+		if (Input.GetButtonDown (jump)) 
+		{
+			rigidbody2D.AddForce(transform.up * jumpPower);
+
+		}
 
 	}
 }
