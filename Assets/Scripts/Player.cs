@@ -31,6 +31,7 @@ public class Player : MonoBehaviour
 	void FixedUpdate () 
 	{
 		grounded = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
+		//grounded = grounded ();
 
 		if (Input.GetAxis (left) < 0)
 		{
@@ -128,4 +129,10 @@ public class Player : MonoBehaviour
 			Application.LoadLevel("2sonic");
 		}
 	}
+
+	//void bool grounded()
+	//{
+
+
+	//}
 }
