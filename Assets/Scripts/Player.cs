@@ -22,6 +22,9 @@ public class Player : MonoBehaviour
 
 	public GameObject win;
 
+	public bool alreadyPressed = false;
+	public bool alreadyUnpressed = false;
+
 	// Use this for initializati
 	void Start () {
 		anim = GetComponent<Animator>();
@@ -30,6 +33,7 @@ public class Player : MonoBehaviour
 	// Update is called once per frame
 	void FixedUpdate () 
 	{
+
 		anim.SetFloat("velocity",0);
 		grounded = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
 		//grounded = grounded ();
@@ -52,8 +56,8 @@ public class Player : MonoBehaviour
 		//transform.position += transform.right * Input.GetAxis(left) * speed * Time.deltaTime;
 		rigidbody2D.AddForce (transform.right*Input.GetAxis(left) * speed);
 
-		if (Application.loadedLevelName != "2sonic") 
-		{
+		//if (Application.loadedLevelName != "2sonic") 
+		//{
 			if (Mathf.Abs (rigidbody2D.velocity.x) > speedLimit) 
 			{
 				if (rigidbody2D.velocity.x < -1) 
@@ -68,11 +72,54 @@ public class Player : MonoBehaviour
 					rigidbody2D.velocity = new Vector2 (speedLimit, rigidbody2D.velocity.y);
 				}
 			}
+		//}
+
+
+		if (alreadyPressed != true)
+		{
+			if (Input.GetKeyDown("left shift"))
+			{
+				speedLimit = 599f;
+				alreadyPressed = true;
+				alreadyUnpressed = false;
+			}
+			if (Input.GetKeyDown("right shift"))
+			{
+				speedLimit = 599f;
+				alreadyPressed = true;
+				alreadyUnpressed = false;
+			}
 		}
+		
+		if (alreadyUnpressed !=true)
+		{
+			if (Input.GetKeyUp("left shift"))
+			{
+				speedLimit = 1.5f;
+				alreadyPressed = false;
+				alreadyUnpressed = true;
+			}
+			
+			if(Input.GetKeyUp("right shift"))
+			{
+				speedLimit = 1.5f;
+				alreadyPressed = false;
+				alreadyUnpressed = true;
+			}
+			
+			if (speedLimit > 3.5f) //will be variable set
+			{
+				speedLimit = 3.5f;
+			}
+		}
+
+
+
 	}
 
 	void Update ()
 	{
+		//speedLimit = 1.5f;
 		anim.SetFloat("height",0);
 
 		if (Input.GetButtonDown (jump) && grounded) 
@@ -141,6 +188,11 @@ public class Player : MonoBehaviour
 		if (col.gameObject.tag == "Protoman")
 		{
 			Application.LoadLevel("3megaman");
+		}
+
+		if(col.gameObject.tag == "sanicdie")
+		{
+			Application.LoadLevel("2sonic");
 		}
 	}
 

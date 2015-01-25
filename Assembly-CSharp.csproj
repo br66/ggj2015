@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\END.cs" />
      <Compile Include="Assets\Scripts\CameraFunc.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\die.cs" />
@@ -57,10 +58,13 @@
      <Compile Include="Assets\Scripts\ship.cs" />
      <Compile Include="Assets\Scripts\sideBumper.cs" />
      <Compile Include="Assets\badEnd.cs" />
+     <Compile Include="Assets\badending.cs" />
      <Compile Include="Assets\doorOpen.cs" />
+     <Compile Include="Assets\eggman.cs" />
      <Compile Include="Assets\protoScript.cs" />
      <Compile Include="Assets\shoot.cs" />
      <Compile Include="Assets\shotMoove.cs" />
+     <Compile Include="Assets\trueending.cs" />
      <None Include="Assets\bestgames.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>

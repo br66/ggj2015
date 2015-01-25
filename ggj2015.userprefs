@@ -1,13 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\shoot.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player.cs">
     <Files>
-      <File FileName="Assets\shoot.cs" Line="31" Column="4" />
-      <File FileName="..\Unity\Galactic Rescue\GRescue\Assets\Scripts\Player\Player Weapons\torpedo.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\goomba.cs" Line="1" Column="1" />
-      <File FileName="Assets\shotMoove.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
-      <File FileName="Assets\doorOpen.cs" Line="26" Column="6" />
+      <File FileName="Assets\trueending.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="154" Column="29" />
+      <File FileName="..\Unity\Galactic Rescue\GRescue\Assets\Scripts\Player\playerMR.cs" Line="1" Column="1" />
+      <File FileName="Assets\eggman.cs" Line="1" Column="1" />
+      <File FileName="Assets\END.cs" Line="1" Column="1" />
+      <File FileName="Assets\badending.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
