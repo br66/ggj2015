@@ -1,0 +1,5998 @@
+fileFormatVersion: 2
+guid: 81357bb33a1f6674da98d5cb77feda9e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 27193_0
+    21300002: 27193_1
+    21300004: 27193_2
+    21300006: 27193_3
+    21300008: 27193_4
+    21300010: 27193_5
+    21300012: 27193_6
+    21300014: 27193_7
+    21300016: 27193_8
+    21300018: 27193_9
+    21300020: 27193_10
+    21300022: 27193_11
+    21300024: 27193_12
+    21300026: 27193_13
+    21300028: 27193_14
+    21300030: 27193_15
+    21300032: 27193_16
+    21300034: 27193_17
+    21300036: 27193_18
+    21300038: 27193_19
+    21300040: 27193_20
+    21300042: 27193_21
+    21300044: 27193_22
+    21300046: 27193_23
+    21300048: 27193_24
+    21300050: 27193_25
+    21300052: 27193_26
+    21300054: 27193_27
+    21300056: 27193_28
+    21300058: 27193_29
+    21300060: 27193_30
+    21300062: 27193_31
+    21300064: 27193_32
+    21300066: 27193_33
+    21300068: 27193_34
+    21300070: 27193_35
+    21300072: 27193_36
+    21300074: 27193_37
+    21300076: 27193_38
+    21300078: 27193_39
+    21300080: 27193_40
+    21300082: 27193_41
+    21300084: 27193_42
+    21300086: 27193_43
+    21300088: 27193_44
+    21300090: 27193_45
+    21300092: 27193_46
+    21300094: 27193_47
+    21300096: 27193_48
+    21300098: 27193_49
+    21300100: 27193_50
+    21300102: 27193_51
+    21300104: 27193_52
+    21300106: 27193_53
+    21300108: 27193_54
+    21300110: 27193_55
+    21300112: 27193_56
+    21300114: 27193_57
+    21300116: 27193_58
+    21300118: 27193_59
+    21300120: 27193_60
+    21300122: 27193_61
+    21300124: 27193_62
+    21300126: 27193_63
+    21300128: 27193_64
+    21300130: 27193_65
+    21300132: 27193_66
+    21300134: 27193_67
+    21300136: 27193_68
+    21300138: 27193_69
+    21300140: 27193_70
+    21300142: 27193_71
+    21300144: 27193_72
+    21300146: 27193_73
+    21300148: 27193_74
+    21300150: 27193_75
+    21300152: 27193_76
+    21300154: 27193_77
+    21300156: 27193_78
+    21300158: 27193_79
+    21300160: 27193_80
+    21300162: 27193_81
+    21300164: 27193_82
+    21300166: 27193_83
+    21300168: 27193_84
+    21300170: 27193_85
+    21300172: 27193_86
+    21300174: 27193_87
+    21300176: 27193_88
+    21300178: 27193_89
+    21300180: 27193_90
+    21300182: 27193_91
+    21300184: 27193_92
+    21300186: 27193_93
+    21300188: 27193_94
+    21300190: 27193_95
+    21300192: 27193_96
+    21300194: 27193_97
+    21300196: 27193_98
+    21300198: 27193_99
+    21300200: 27193_100
+    21300202: 27193_101
+    21300204: 27193_102
+    21300206: 27193_103
+    21300208: 27193_104
+    21300210: 27193_105
+    21300212: 27193_106
+    21300214: 27193_107
+    21300216: 27193_108
+    21300218: 27193_109
+    21300220: 27193_110
+    21300222: 27193_111
+    21300224: 27193_112
+    21300226: 27193_113
+    21300228: 27193_114
+    21300230: 27193_115
+    21300232: 27193_116
+    21300234: 27193_117
+    21300236: 27193_118
+    21300238: 27193_119
+    21300240: 27193_120
+    21300242: 27193_121
+    21300244: 27193_122
+    21300246: 27193_123
+    21300248: 27193_124
+    21300250: 27193_125
+    21300252: 27193_126
+    21300254: 27193_127
+    21300256: 27193_128
+    21300258: 27193_129
+    21300260: 27193_130
+    21300262: 27193_131
+    21300264: 27193_132
+    21300266: 27193_133
+    21300268: 27193_134
+    21300270: 27193_135
+    21300272: 27193_136
+    21300274: 27193_137
+    21300276: 27193_138
+    21300278: 27193_139
+    21300280: 27193_140
+    21300282: 27193_141
+    21300284: 27193_142
+    21300286: 27193_143
+    21300288: 27193_144
+    21300290: 27193_145
+    21300292: 27193_146
+    21300294: 27193_147
+    21300296: 27193_148
+    21300298: 27193_149
+    21300300: 27193_150
+    21300302: 27193_151
+    21300304: 27193_152
+    21300306: 27193_153
+    21300308: 27193_154
+    21300310: 27193_155
+    21300312: 27193_156
+    21300314: 27193_157
+    21300316: 27193_158
+    21300318: 27193_159
+    21300320: 27193_160
+    21300322: 27193_161
+    21300324: 27193_162
+    21300326: 27193_163
+    21300328: 27193_164
+    21300330: 27193_165
+    21300332: 27193_166
+    21300334: 27193_167
+    21300336: 27193_168
+    21300338: 27193_169
+    21300340: 27193_170
+    21300342: 27193_171
+    21300344: 27193_172
+    21300346: 27193_173
+    21300348: 27193_174
+    21300350: 27193_175
+    21300352: 27193_176
+    21300354: 27193_177
+    21300356: 27193_178
+    21300358: 27193_179
+    21300360: 27193_180
+    21300362: 27193_181
+    21300364: 27193_182
+    21300366: 27193_183
+    21300368: 27193_184
+    21300370: 27193_185
+    21300372: 27193_186
+    21300374: 27193_187
+    21300376: 27193_188
+    21300378: 27193_189
+    21300380: 27193_190
+    21300382: 27193_191
+    21300384: 27193_192
+    21300386: 27193_193
+    21300388: 27193_194
+    21300390: 27193_195
+    21300392: 27193_196
+    21300394: 27193_197
+    21300396: 27193_198
+    21300398: 27193_199
+    21300400: 27193_200
+    21300402: 27193_201
+    21300404: 27193_202
+    21300406: 27193_203
+    21300408: 27193_204
+    21300410: 27193_205
+    21300412: 27193_206
+    21300414: 27193_207
+    21300416: 27193_208
+    21300418: 27193_209
+    21300420: 27193_210
+    21300422: 27193_211
+    21300424: 27193_212
+    21300426: 27193_213
+    21300428: 27193_214
+    21300430: 27193_215
+    21300432: 27193_216
+    21300434: 27193_217
+    21300436: 27193_218
+    21300438: 27193_219
+    21300440: 27193_220
+    21300442: 27193_221
+    21300444: 27193_222
+    21300446: 27193_223
+    21300448: 27193_224
+    21300450: 27193_225
+    21300452: 27193_226
+    21300454: 27193_227
+    21300456: 27193_228
+    21300458: 27193_229
+    21300460: 27193_230
+    21300462: 27193_231
+    21300464: 27193_232
+    21300466: 27193_233
+    21300468: 27193_234
+    21300470: 27193_235
+    21300472: 27193_236
+    21300474: 27193_237
+    21300476: 27193_238
+    21300478: 27193_239
+    21300480: 27193_240
+    21300482: 27193_241
+    21300484: 27193_242
+    21300486: 27193_243
+    21300488: 27193_244
+    21300490: 27193_245
+    21300492: 27193_246
+    21300494: 27193_247
+    21300496: 27193_248
+    21300498: 27193_249
+    21300500: 27193_250
+    21300502: 27193_251
+    21300504: 27193_252
+    21300506: 27193_253
+    21300508: 27193_254
+    21300510: 27193_255
+    21300512: 27193_256
+    21300514: 27193_257
+    21300516: 27193_258
+    21300518: 27193_259
+    21300520: 27193_260
+    21300522: 27193_261
+    21300524: 27193_262
+    21300526: 27193_263
+    21300528: 27193_264
+    21300530: 27193_265
+    21300532: 27193_266
+    21300534: 27193_267
+    21300536: 27193_268
+    21300538: 27193_269
+    21300540: 27193_270
+    21300542: 27193_271
+    21300544: 27193_272
+    21300546: 27193_273
+    21300548: 27193_274
+    21300550: 27193_275
+    21300552: 27193_276
+    21300554: 27193_277
+    21300556: 27193_278
+    21300558: 27193_279
+    21300560: 27193_280
+    21300562: 27193_281
+    21300564: 27193_282
+    21300566: 27193_283
+    21300568: 27193_284
+    21300570: 27193_285
+    21300572: 27193_286
+    21300574: 27193_287
+    21300576: 27193_288
+    21300578: 27193_289
+    21300580: 27193_290
+    21300582: 27193_291
+    21300584: 27193_292
+    21300586: 27193_293
+    21300588: 27193_294
+    21300590: 27193_295
+    21300592: 27193_296
+    21300594: 27193_297
+    21300596: 27193_298
+    21300598: 27193_299
+    21300600: 27193_300
+    21300602: 27193_301
+    21300604: 27193_302
+    21300606: 27193_303
+    21300608: 27193_304
+    21300610: 27193_305
+    21300612: 27193_306
+    21300614: 27193_307
+    21300616: 27193_308
+    21300618: 27193_309
+    21300620: 27193_310
+    21300622: 27193_311
+    21300624: 27193_312
+    21300626: 27193_313
+    21300628: 27193_314
+    21300630: 27193_315
+    21300632: 27193_316
+    21300634: 27193_317
+    21300636: 27193_318
+    21300638: 27193_319
+    21300640: 27193_320
+    21300642: 27193_321
+    21300644: 27193_322
+    21300646: 27193_323
+    21300648: 27193_324
+    21300650: 27193_325
+    21300652: 27193_326
+    21300654: 27193_327
+    21300656: 27193_328
+    21300658: 27193_329
+    21300660: 27193_330
+    21300662: 27193_331
+    21300664: 27193_332
+    21300666: 27193_333
+    21300668: 27193_334
+    21300670: 27193_335
+    21300672: 27193_336
+    21300674: 27193_337
+    21300676: 27193_338
+    21300678: 27193_339
+    21300680: 27193_340
+    21300682: 27193_341
+    21300684: 27193_342
+    21300686: 27193_343
+    21300688: 27193_344
+    21300690: 27193_345
+    21300692: 27193_346
+    21300694: 27193_347
+    21300696: 27193_348
+    21300698: 27193_349
+    21300700: 27193_350
+    21300702: 27193_351
+    21300704: 27193_352
+    21300706: 27193_353
+    21300708: 27193_354
+    21300710: 27193_355
+    21300712: 27193_356
+    21300714: 27193_357
+    21300716: 27193_358
+    21300718: 27193_359
+    21300720: 27193_360
+    21300722: 27193_361
+    21300724: 27193_362
+    21300726: 27193_363
+    21300728: 27193_364
+    21300730: 27193_365
+    21300732: 27193_366
+    21300734: 27193_367
+    21300736: 27193_368
+    21300738: 27193_369
+    21300740: 27193_370
+    21300742: 27193_371
+    21300744: 27193_372
+    21300746: 27193_373
+    21300748: 27193_374
+    21300750: 27193_375
+    21300752: 27193_376
+    21300754: 27193_377
+    21300756: 27193_378
+    21300758: 27193_379
+    21300760: 27193_380
+    21300762: 27193_381
+    21300764: 27193_382
+    21300766: 27193_383
+    21300768: 27193_384
+    21300770: 27193_385
+    21300772: 27193_386
+    21300774: 27193_387
+    21300776: 27193_388
+    21300778: 27193_389
+    21300780: 27193_390
+    21300782: 27193_391
+    21300784: 27193_392
+    21300786: 27193_393
+    21300788: 27193_394
+    21300790: 27193_395
+    21300792: 27193_396
+    21300794: 27193_397
+    21300796: 27193_398
+    21300798: 27193_399
+    21300800: 27193_400
+    21300802: 27193_401
+    21300804: 27193_402
+    21300806: 27193_403
+    21300808: 27193_404
+    21300810: 27193_405
+    21300812: 27193_406
+    21300814: 27193_407
+    21300816: 27193_408
+    21300818: 27193_409
+    21300820: 27193_410
+    21300822: 27193_411
+    21300824: 27193_412
+    21300826: 27193_413
+    21300828: 27193_414
+    21300830: 27193_415
+    21300832: 27193_416
+    21300834: 27193_417
+    21300836: 27193_418
+    21300838: 27193_419
+    21300840: 27193_420
+    21300842: 27193_421
+    21300844: 27193_422
+    21300846: 27193_423
+    21300848: 27193_424
+    21300850: 27193_425
+    21300852: 27193_426
+    21300854: 27193_427
+    21300856: 27193_428
+    21300858: 27193_429
+    21300860: 27193_430
+    21300862: 27193_431
+    21300864: 27193_432
+    21300866: 27193_433
+    21300868: 27193_434
+    21300870: 27193_435
+    21300872: 27193_436
+    21300874: 27193_437
+    21300876: 27193_438
+    21300878: 27193_439
+    21300880: 27193_440
+    21300882: 27193_441
+    21300884: 27193_442
+    21300886: 27193_443
+    21300888: 27193_444
+    21300890: 27193_445
+    21300892: 27193_446
+    21300894: 27193_447
+    21300896: 27193_448
+    21300898: 27193_449
+    21300900: 27193_450
+    21300902: 27193_451
+    21300904: 27193_452
+    21300906: 27193_453
+    21300908: 27193_454
+    21300910: 27193_455
+    21300912: 27193_456
+    21300914: 27193_457
+    21300916: 27193_458
+    21300918: 27193_459
+    21300920: 27193_460
+    21300922: 27193_461
+    21300924: 27193_462
+    21300926: 27193_463
+    21300928: 27193_464
+    21300930: 27193_465
+    21300932: 27193_466
+    21300934: 27193_467
+    21300936: 27193_468
+    21300938: 27193_469
+    21300940: 27193_470
+    21300942: 27193_471
+    21300944: 27193_472
+    21300946: 27193_473
+    21300948: 27193_474
+    21300950: 27193_475
+    21300952: 27193_476
+    21300954: 27193_477
+    21300956: 27193_478
+    21300958: 27193_479
+    21300960: 27193_480
+    21300962: 27193_481
+    21300964: 27193_482
+    21300966: 27193_483
+    21300968: 27193_484
+    21300970: 27193_485
+    21300972: 27193_486
+    21300974: 27193_487
+    21300976: 27193_488
+    21300978: 27193_489
+    21300980: 27193_490
+    21300982: 27193_491
+    21300984: 27193_492
+    21300986: 27193_493
+    21300988: 27193_494
+    21300990: 27193_495
+    21300992: 27193_496
+    21300994: 27193_497
+    21300996: 27193_498
+    21300998: 27193_499
+    21301000: 27193_500
+    21301002: 27193_501
+    21301004: 27193_502
+    21301006: 27193_503
+    21301008: 27193_504
+    21301010: 27193_505
+    21301012: 27193_506
+    21301014: 27193_507
+    21301016: 27193_508
+    21301018: 27193_509
+    21301020: 27193_510
+    21301022: 27193_511
+    21301024: 27193_512
+    21301026: 27193_513
+    21301028: 27193_514
+    21301030: 27193_515
+    21301032: 27193_516
+    21301034: 27193_517
+    21301036: 27193_518
+    21301038: 27193_519
+    21301040: 27193_520
+    21301042: 27193_521
+    21301044: 27193_522
+    21301046: 27193_523
+    21301048: 27193_524
+    21301050: 27193_525
+    21301052: 27193_526
+    21301054: 27193_527
+    21301056: 27193_528
+    21301058: 27193_529
+    21301060: 27193_530
+    21301062: 27193_531
+    21301064: 27193_532
+    21301066: 27193_533
+    21301068: 27193_534
+    21301070: 27193_535
+    21301072: 27193_536
+    21301074: 27193_537
+    21301076: 27193_538
+    21301078: 27193_539
+    21301080: 27193_540
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 27193_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 626
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 631
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 631
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 631
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 629
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 631
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 631
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 631
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 631
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 631
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 626
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 626
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_13
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 631
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_14
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 631
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 631
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 629
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_17
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 631
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_18
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 631
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_19
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 631
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_20
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 631
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_21
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 631
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_22
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 626
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 574
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_24
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 574
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 574
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 574
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 574
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 574
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_29
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 574
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_30
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 574
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_31
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 574
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_32
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 574
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_33
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 574
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_34
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 574
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_35
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 574
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_36
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 574
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_37
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 574
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_38
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 607
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_39
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 607
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_40
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 607
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_41
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 607
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_42
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 574
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_43
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 574
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_44
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 574
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_45
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 552
+        width: 313
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_46
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 557
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_47
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 557
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_48
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 557
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_49
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 555
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_50
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 557
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_51
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 557
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_52
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 557
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_53
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 557
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_54
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 557
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_55
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 552
+        width: 308
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 485
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 485
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_58
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 485
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_59
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 485
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_60
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 485
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_61
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_62
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 521
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_63
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 485
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_64
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 485
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_65
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 485
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_66
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 485
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_67
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 485
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_68
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 485
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_69
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 485
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_70
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 521
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_71
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 485
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_72
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 485
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_73
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 485
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_74
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 485
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_75
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_76
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 411
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_77
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 411
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_78
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 411
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_79
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 437
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_80
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 419
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_81
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 446
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_82
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 421
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_83
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 445
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_84
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 420
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_85
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_86
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 420
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_87
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 445
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_88
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 421
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_89
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 446
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_90
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 437
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_91
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 419
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_92
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 426
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_93
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 414
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_94
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 424
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_95
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 414
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_96
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_97
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 385
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_98
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 385
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_99
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 385
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_100
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 394
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_101
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 387
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_102
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 385
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_103
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 387
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_104
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 394
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_105
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 385
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_106
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 385
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_107
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 385
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_108
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 385
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_109
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_110
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 342
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_111
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 342
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_112
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 360
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_113
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 365
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_114
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 365
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_115
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 365
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_116
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 363
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_117
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 360
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_118
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 348
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_119
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 342
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_120
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 342
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_121
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 280
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_122
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 280
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_123
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 327
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_124
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_125
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 323
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_126
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 340
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_127
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 355
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_128
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 353
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_129
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 348
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_130
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 349
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_131
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 280
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_132
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 334
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_133
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 340
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_134
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 331
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_135
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 343
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_136
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 340
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_137
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 313
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_138
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 313
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_139
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 313
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_140
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 313
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_141
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 313
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_142
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 313
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_143
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 313
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_144
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 313
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_145
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 332
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_146
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_147
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 327
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_148
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 314
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_149
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 314
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_150
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 314
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_151
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 314
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_152
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 314
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_153
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 325
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_154
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 323
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_155
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 314
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_156
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 314
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_157
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 314
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_158
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 314
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_159
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 284
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_160
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_161
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 280
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_162
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 297
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_163
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 312
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_164
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 310
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_165
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 288
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_166
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 288
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_167
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 288
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_168
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 312
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_169
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 312
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_170
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 296
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_171
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 280
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_172
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 296
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_173
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 280
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_174
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 280
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_175
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 291
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_176
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 297
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_177
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 288
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_178
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 300
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_179
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 297
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_180
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 280
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_181
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 280
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_182
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 280
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_183
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 280
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_184
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 280
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_185
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 280
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_186
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 280
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_187
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 280
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_188
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 296
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_189
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 296
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_190
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 289
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_191
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_192
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 284
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_193
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 280
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_194
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 280
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_195
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 280
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_196
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 280
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_197
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 282
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_198
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 280
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_199
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 280
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_200
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 280
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_201
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_202
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_203
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_204
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_205
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_206
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_207
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 258
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_208
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 259
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_209
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 259
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_210
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 259
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_211
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 259
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_212
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 259
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_213
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 259
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_214
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 259
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_215
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 259
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_216
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 259
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_217
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 259
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_218
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 257
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_219
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 259
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_220
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 259
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_221
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 259
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_222
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 259
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_223
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_224
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_225
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_226
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_227
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 221
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_228
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 180
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_229
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_230
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_231
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_232
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_233
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_234
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_235
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_236
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_237
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_238
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_239
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_240
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_241
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_242
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_243
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_244
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_245
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_246
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_247
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 134
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_248
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_249
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_250
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_251
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_252
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_253
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_255
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 134
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_256
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 134
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_257
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 134
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_258
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 134
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_259
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 134
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_260
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 134
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_261
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 134
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_262
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 134
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_263
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 134
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_264
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 134
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_265
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 134
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_266
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 134
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_267
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 134
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_268
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 134
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_269
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_270
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_271
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_272
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_273
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_274
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_275
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_276
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_277
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 130
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_278
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 130
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_279
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 130
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_280
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 130
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_281
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 130
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_282
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 130
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_283
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 130
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_284
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 131
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_285
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 146
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_286
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 163
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_287
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 161
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_288
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 151
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_289
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 150
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_290
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 135
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_291
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 113
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_292
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 113
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_293
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 113
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_294
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 113
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_295
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 113
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_296
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 111
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_297
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 113
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_298
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 113
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_299
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_300
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 113
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_301
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 113
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_302
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 113
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_303
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 113
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_304
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 113
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_305
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 113
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_306
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 113
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_307
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 113
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_308
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 113
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_309
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 113
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_310
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 113
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_311
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 113
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_312
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 113
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_313
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 110
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_314
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_315
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_316
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_317
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_318
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_319
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_320
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_321
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_322
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_323
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_324
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 114
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_325
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 119
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_326
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_327
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_328
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 117
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_329
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 114
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_330
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 114
+        width: 70
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_331
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 119
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_332
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_333
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_334
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 117
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_335
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 114
+        width: 70
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_336
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 117
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_337
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 111
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_338
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_339
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_340
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 113
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_341
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_342
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 108
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_343
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 108
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_344
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 99
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_345
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 99
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_346
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 99
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_347
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 99
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_348
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 99
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_349
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 99
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_350
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 99
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_351
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 99
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_352
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 99
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_353
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 78
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_354
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_355
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_356
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_357
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_358
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_359
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_360
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_361
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_362
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_363
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_364
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 96
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_365
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 96
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_366
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 93
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_367
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 97
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_368
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 97
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_369
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 93
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_370
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 108
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_371
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 106
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_372
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 108
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_373
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 108
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_374
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 98
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_375
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_376
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 98
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_377
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 98
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_378
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 97
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_379
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_380
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 97
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_381
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 97
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_382
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 97
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_383
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 97
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_384
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_385
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_386
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_387
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_388
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_389
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_390
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_391
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_392
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_393
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_394
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_395
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_396
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_397
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 66
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_398
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 66
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_399
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 66
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_400
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 95
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_401
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 95
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_402
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_403
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 97
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_404
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 97
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_405
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 97
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_406
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 97
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_407
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 97
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_408
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 97
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_409
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 74
+        width: 257
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_410
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 85
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_411
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 85
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_412
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 85
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_413
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 85
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_414
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 85
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_415
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 85
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_416
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 85
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_417
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 85
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_418
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 81
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_419
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 81
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_420
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_421
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_422
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 81
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_423
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 81
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_424
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_425
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_426
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_427
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_428
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_429
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_430
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_431
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_432
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_433
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_434
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_435
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_436
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_437
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 71
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_438
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 71
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_439
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_440
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 72
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_441
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 72
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_442
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_443
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_444
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_445
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_446
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_447
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_448
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_449
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_450
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_451
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_452
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_453
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_454
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_455
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_456
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 69
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_457
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 69
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_458
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 70
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_459
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 70
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_460
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 54
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_461
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 54
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_462
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_463
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_464
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_465
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_466
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_467
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_468
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_469
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_470
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_471
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_472
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_473
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_474
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_475
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_476
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_477
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_478
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_479
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_480
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_481
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_482
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_483
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_484
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_485
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_486
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_487
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_488
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_489
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_490
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_491
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_492
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_493
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_494
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_495
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 53
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_496
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 51
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_497
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 53
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_498
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 53
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_499
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_500
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 53
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_501
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 53
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_502
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_503
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_504
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_505
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_506
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_507
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_508
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_509
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 53
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_510
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_511
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_512
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_513
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 53
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_514
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_515
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_516
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_517
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_518
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_519
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 42
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_520
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 42
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_521
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 42
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_522
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_523
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 40
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_524
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_525
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 42
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_526
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 42
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_527
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 42
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_528
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_529
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 40
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_530
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_531
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_532
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 40
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_533
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_534
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 30
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_535
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 30
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_536
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 30
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_537
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 30
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_538
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 30
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_539
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 30
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 27193_540
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -48,10 +48,15 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraFunc.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\die.cs" />
+     <Compile Include="Assets\Scripts\followPlayer.cs" />
+     <Compile Include="Assets\Scripts\goomba.cs" />
      <Compile Include="Assets\Scripts\no.cs" />
+     <Compile Include="Assets\Scripts\regBumber.cs" />
+     <Compile Include="Assets\Scripts\rings.cs" />
      <Compile Include="Assets\Scripts\ship.cs" />
-     <Compile Include="Assets\die.cs" />
-     <Compile Include="Assets\goomba.cs" />
+     <Compile Include="Assets\Scripts\sideBumper.cs" />
+     <Compile Include="Assets\badEnd.cs" />
      <None Include="Assets\bestgames.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>

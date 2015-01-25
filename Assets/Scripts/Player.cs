@@ -15,13 +15,14 @@ public class Player : MonoBehaviour
 
 	private GameObject deadEnemy;
 
-	//public Animator anim;
+	//public Animator anim
 
 	public Transform groundCheck;
 	public bool grounded = false;
 
+	public GameObject win;
 
-	// Use this for initializatio
+	// Use this for initializati
 	void Start () {
 	
 	}
@@ -97,6 +98,29 @@ public class Player : MonoBehaviour
 		{
 			Application.LoadLevel("1platform");
 		}
-	}
 
+		if (collision.gameObject.tag == "Box")
+		{
+			this.speedLimit = 3f;
+			this.speed *= 35f;
+			Destroy (collision.gameObject);
+			if (win)
+			{
+				Destroy (win);
+			}
+		}
+		if (collision.gameObject.tag == "Side Bumper")
+		{
+			rigidbody2D.AddForce(transform.right * jumpPower * 33f);
+		}
+		if (collision.gameObject.tag == "Bumper")
+		{
+			rigidbody2D.AddForce(transform.up *jumpPower * 10f);
+		}
+
+		if (collision.gameObject.tag == "Dead2ndLevel")
+		{
+			Application.LoadLevel("2sonic");
+		}
+	}
 }
