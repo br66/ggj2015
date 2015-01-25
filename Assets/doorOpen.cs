@@ -22,8 +22,8 @@ public class doorOpen : MonoBehaviour
 			camera.xSmooth = 4f;
 			camera.ySmooth = 4f;
 
-			camera.minXAndY.x = 11.55f;
-			camera.minXAndY.y = -1.15f;
+			//camera.minXAndY.x = 11.55f;
+			//camera.minXAndY.y = -1.15f;
 		}
 	}
 }

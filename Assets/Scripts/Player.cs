@@ -15,7 +15,7 @@ public class Player : MonoBehaviour
 
 	private GameObject deadEnemy;
 
-	//public Animator anim
+	public Animator anim;
 
 	public Transform groundCheck;
 	public bool grounded = false;
@@ -24,12 +24,13 @@ public class Player : MonoBehaviour
 
 	// Use this for initializati
 	void Start () {
-	
+		anim = GetComponent<Animator>();
 	}
 
 	// Update is called once per frame
 	void FixedUpdate () 
 	{
+		anim.SetFloat("velocity",0);
 		grounded = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
 		//grounded = grounded ();
 
@@ -38,12 +39,14 @@ public class Player : MonoBehaviour
 			Vector3 newScale = transform.localScale;
 			newScale.x = -1.0f;
 			transform.localScale = newScale;
+			anim.SetFloat("velocity", 1);
 		}
 		else if (Input.GetAxis (left) > 0)
 		{
 			Vector3 newScale = transform.localScale;
 			newScale.x = 1.0f;
 			transform.localScale = newScale;
+			anim.SetFloat("velocity", 1);
 		}
 	
 		//transform.position += transform.right * Input.GetAxis(left) * speed * Time.deltaTime;
@@ -70,9 +73,12 @@ public class Player : MonoBehaviour
 
 	void Update ()
 	{
+		anim.SetFloat("height",0);
+
 		if (Input.GetButtonDown (jump) && grounded) 
 		{
 			rigidbody2D.AddForce(transform.up * jumpPower);
+			anim.SetFloat("height",1);
 		}
 		
 		if (Mathf.Abs (rigidbody2D.velocity.y) > jumpLimit)
@@ -127,6 +133,14 @@ public class Player : MonoBehaviour
 		if (collision.gameObject.tag == "Dead2ndLevel")
 		{
 			Application.LoadLevel("2sonic");
+		}
+	}
+
+	void OnTriggerEnter2D(Collider2D col)
+	{
+		if (col.gameObject.tag == "Protoman")
+		{
+			Application.LoadLevel("3megaman");
 		}
 	}
 
